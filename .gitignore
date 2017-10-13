@@ -1,5 +1,6 @@
 /build
 /dist
+/.idea
 /pyside_build
 /pyside_package
 /pyside_install
